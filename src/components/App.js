@@ -6,7 +6,7 @@ import TestComponent from "./TestComponent";
 function App() {
   return (
     <div className="App">
-      <h1>{format(new Date(), "MMMM do yyyy, h:mm:ss a")}</h1>
+      <h1>Now</h1>
       <p className="App-intro">
         In React apps, we write JSX - it looks like HTML, and uses a lot of HTML
         syntax. JSX lets us include JavaScript functions right along with the
